@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Actuarly"
 title_separator          : "-"
-name                     : &name "CRB"
-description              : &description "An actuarial blog."   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "C. R. Buck"
+description              : &description "Actuarly is an independent think tank conducting critical research on financial and policy issues in the public interest."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Actuarly.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
