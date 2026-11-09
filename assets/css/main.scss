@@ -37,3 +37,6 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+.author__avatar img {
+  border-radius: 0;      // rectangular instead of oval
+}
