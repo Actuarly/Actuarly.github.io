@@ -26,6 +26,6 @@ Think you have something worth sharing? We would like to hear from you. Send you
 All submissions are reviewed by the Actuarly editors. We especially welcome contributions from members of the actuarial profession and related disciplines, but we invite submissions from all backgrounds. If you have a well-founded perspective on finance or policy, we'd like to read it.
 
 ----
-### Pleaes note
+### Please note
 Please note that this site is still under construction and as a consequence may not always run smoothly. Thank you for your understanding.
 
