@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Actuarly: Let Actuaries show you what actually drives finance."
+title: "Actuarly: The actuarial side of what actually drives finance."
 author_profile: true
 redirect_from: 
   - /about/
