@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Actuarly: a blog for all things actuarial. "
+title: "Actuarly: Let Actuaries show you what actually drives finance."
 author_profile: true
 redirect_from: 
   - /about/
