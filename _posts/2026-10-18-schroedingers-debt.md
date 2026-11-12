@@ -42,8 +42,8 @@ it worthwhile to make payments quickly to avoid high interest costs. But where
 is the threshold where this regime switch kicks in, and how might you
 end up paying if you have the capital to make advance payments?
 
-This article aims to answer these with a collection of illustrative
-plots. It aims to answer this question doing a stochastic-simulation of
+This article aims to answer these questions with a collection of (hopefully) illustrative
+plots. Given the uncertainty underlying future events, it aims to answer this question doing a stochastic (random) simulation of
 the factors influencing the loans structure (income trajectories over
 30y, RPI, living expenses, inflation, UK-tax bands, savings
 incl. capital gains).
