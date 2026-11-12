@@ -8,9 +8,6 @@ output:
     variant: gfm
     preserve_yaml: true
 ---
-
-## Intro
-
 When Erwin Schroedinger studied Physics at the early 20th century in
 Vienna, tuition fees, or what at the time was known as “Kollegiengeld”,
 for what would be the equivalent of today’s integrated master’s degree
