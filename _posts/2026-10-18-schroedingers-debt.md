@@ -14,7 +14,7 @@ for what would be the equivalent of today’s integrated master’s degree
 amounted to around 3’000 EUR - 5’000 EUR (inflation adjusted). Despite
 the Habsburg empire already nearing the later stages of its
 decline, public finances still stretched far enough to make higher
-education accessible. The same cannot be said for the UK.
+education accessible. Unfortunately, the same cannot be said for the UK.
 
 Had he however been born between 1994 and 2003 in
 England, he would not been privy to the same privileges and most likely
