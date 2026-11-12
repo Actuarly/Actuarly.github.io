@@ -22,7 +22,7 @@ would have been forced to become a recipient of the UK government’s Plan
 2 student loan.
 
 Upon completion of his studies he would have found himself in a similar
-situation to many graduates in England and Wales confronted with the
+situation to many graduates in England and Wales facing around £50'000 in student debt, confronted with the
 deceptively simple question: should he pay off the loan as quickly as
 possible, or pay the minimum in accordance with his Plan 2 agreement?
 
