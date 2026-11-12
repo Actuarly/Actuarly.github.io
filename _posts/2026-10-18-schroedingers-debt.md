@@ -38,7 +38,7 @@ little, you never payoff the debt in its entirety, and the outstanding
 debt is written-off by the end of the term, incentivising minimum loan
 payments; if on the other hand you earn more, you might end up payoff
 the loan in it’s entirety before the end of the 30 year deadline, making
-it worthwhile to payoff quickly to avoid high interest costs. But where
+it worthwhile to make payments quickly to avoid high interest costs. But where
 is the threshold where this regime switch kicks in, and how might you
 end up paying if you have the capital to make advance payments?
 
