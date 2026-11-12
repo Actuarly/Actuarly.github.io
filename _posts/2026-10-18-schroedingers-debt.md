@@ -11,7 +11,21 @@ output:
 
 ## Intro
 
-Your introduction here…
+When Erwin Schroedinger studied Physics at the early 20th century in
+Vienna, tuition fees, or what at the time was known as “Kollegiengeld”,
+for what would be the equivalent of today’s integrated master’s degree
+amounted to around 3’000 EUR - 5’000 EUR (inflation adjusted). Despite
+the Habsburg empire already nearing the later stages of its later
+decline, public finances still stretched far enough to make higher
+education accessible. Had he however been born between 1994 and 2003 in
+England, he would not been privy to the same priviledges and most likely
+would have been forced to become a recipient of the UK government’s Plan
+2 student loan.
+
+Upon completion of his studies he would have found himself in a similar
+situation to many graduates in England and Wales confronted with the
+deceptively simple question: should he pay off the loan as quickly as
+possible, or pay the minimum in accordance with his Plan 2 agreement?
 
 <figure>
 <img
@@ -119,21 +133,21 @@ Sensitivity of the results to the model parameters, by alpha.
 
 **Table 1**: Local sensitivity analysis (α = 0.67)
 
-| Indicator             |   Baseline | Sensitivity | per +1pp rho | per +1 yr T | per +5,000 I0 | per +10,000 down | per +0.5pp sav_rate | elast theta0 | elast rho0 | elast T | elast I0 | elast down | elast sav |
-|:----------------------|-----------:|------------:|-------------:|------------:|--------------:|-----------------:|--------------------:|-------------:|-----------:|--------:|---------:|-----------:|----------:|
-| mean_real_payments    |  89571.057 |      58.565 |     -200.280 |       0.000 |      -907.552 |        -1888.853 |                0.00 |        0.019 |     -0.020 |   0.000 |   -0.133 |     -0.011 |     0.000 |
-| p05_real_payments     |  85699.975 |      50.848 |     -168.567 |       0.000 |      -756.290 |        -1478.175 |                0.00 |        0.017 |     -0.018 |   0.000 |   -0.116 |     -0.009 |     0.000 |
-| p50_real_payments     |  89598.994 |      59.515 |     -201.313 |       0.000 |      -909.747 |        -1890.605 |                0.00 |        0.019 |     -0.020 |   0.000 |   -0.133 |     -0.011 |     0.000 |
-| p95_real_payments     |  93266.750 |      66.770 |     -235.965 |       0.000 |     -1068.351 |        -2325.485 |                0.00 |        0.021 |     -0.023 |   0.000 |   -0.150 |     -0.012 |     0.000 |
-| mean_payment_share    |      0.040 |       0.000 |        0.000 |      -0.002 |        -0.003 |           -0.001 |                0.00 |        0.019 |     -0.020 |  -1.316 |   -1.140 |     -0.011 |     0.000 |
-| prob_repaid           |      1.000 |       0.000 |        0.000 |       0.000 |         0.000 |            0.000 |                0.00 |        0.000 |      0.000 |   0.000 |    0.000 |      0.000 |     0.000 |
-| mean_payoff_year      |     10.588 |       0.038 |       -0.135 |       0.000 |        -0.604 |           -0.663 |                0.00 |        0.104 |     -0.115 |   0.000 |   -0.747 |     -0.031 |     0.000 |
-| mean_real_writeoff    |      0.000 |       0.000 |        0.000 |       0.000 |         0.000 |            0.000 |                0.00 |           NA |         NA |      NA |       NA |         NA |        NA |
-| mean_real_end_savings | 343331.653 |     -50.863 |      173.661 |   19264.497 |     20903.970 |         1684.267 |            19064.24 |       -0.004 |      0.005 |   1.683 |    0.798 |      0.002 |     0.444 |
-| prob_shortfall        |      0.000 |       0.000 |        0.000 |       0.000 |         0.000 |            0.000 |                0.00 |           NA |         NA |      NA |       NA |         NA |        NA |
+| Indicator             |   Baseline | Sensitivity | per +1pp rho | per +1 yr T | per +5,000 I0 | per +10,000 down | per +0.5pp sav_rate | elast theta0 | elast rho0 | elast T | elast I0 | elast sav |
+|:----------------------|-----------:|------------:|-------------:|------------:|--------------:|-----------------:|--------------------:|-------------:|-----------:|--------:|---------:|----------:|
+| mean_real_payments    |  92026.419 |      70.976 |     -241.093 |       0.000 |     -1064.766 |        -4038.223 |                   0 |        0.022 |     -0.024 |   0.000 |   -0.150 |     0.000 |
+| p05_real_payments     |  87546.309 |      59.365 |     -197.988 |       0.000 |      -877.620 |        -3127.332 |                   0 |        0.020 |     -0.020 |   0.000 |   -0.130 |     0.000 |
+| p50_real_payments     |  92012.189 |      71.561 |     -239.077 |       0.000 |     -1051.829 |        -4006.852 |                   0 |        0.023 |     -0.023 |   0.000 |   -0.149 |     0.000 |
+| p95_real_payments     |  96442.619 |      93.393 |     -281.276 |       0.000 |     -1275.965 |        -5032.544 |                   0 |        0.028 |     -0.026 |   0.000 |   -0.172 |     0.000 |
+| mean_payment_share    |      0.042 |       0.000 |        0.000 |      -0.002 |        -0.004 |           -0.002 |                   0 |        0.023 |     -0.024 |  -1.312 |   -1.158 |     0.000 |
+| prob_repaid           |      1.000 |       0.000 |        0.000 |       0.000 |         0.000 |            0.000 |                   0 |        0.000 |      0.000 |   0.000 |    0.000 |     0.000 |
+| mean_payoff_year      |     11.533 |       0.041 |       -0.154 |       0.000 |        -0.660 |           -1.396 |                   0 |        0.103 |     -0.120 |   0.000 |   -0.744 |     0.000 |
+| mean_real_writeoff    |      0.000 |       0.000 |        0.000 |       0.000 |         0.000 |            0.000 |                   0 |           NA |         NA |      NA |       NA |        NA |
+| mean_real_end_savings | 332805.586 |     -61.154 |      207.522 |   18962.129 |     20765.681 |         3585.646 |               18619 |       -0.005 |      0.006 |   1.709 |    0.811 |     0.448 |
+| prob_shortfall        |      0.000 |       0.000 |        0.000 |       0.000 |         0.000 |            0.000 |                   0 |           NA |         NA |      NA |       NA |        NA |
 
 <!--
 Render with:
-rmarkdown::render("The_SD_Dilemma.Rmd",
-  output_file = file.path(repo, "_posts", "2026-10-18-schroedingers-debt.md"))
+rmarkdown::render("The_SD_Dilemma_git2.0.Rmd",
+  output_file = path.expand("~/dev/actuarly/Actuarly.github.io/_posts/2026-10-18-schroedingers-debt.md"))
 -->
