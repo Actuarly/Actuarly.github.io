@@ -21,7 +21,7 @@ We believe the best way forward is to think with our brains and execute with AI.
 
 ## Get in touch
 
-Think you have something worth sharing? We would like to hear from you. Send your idea or draft to **\[your-email@actuarly.org\]**.
+Think you have something worth sharing? We would like to hear from you. Send your idea or draft to **\[christopher.buck66@gmail.com\]**.
 
 All submissions are reviewed by the Actuarly editors. We especially welcome contributions from members of the actuarial profession and related disciplines, but we invite submissions from all backgrounds. If you have a well-founded perspective on finance or policy, we'd like to read it.
 
