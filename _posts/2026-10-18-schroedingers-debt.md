@@ -18,7 +18,7 @@ amounted to around 3’000 EUR - 5’000 EUR (inflation adjusted). Despite
 the Habsburg empire already nearing the later stages of its later
 decline, public finances still stretched far enough to make higher
 education accessible. Had he however been born between 1994 and 2003 in
-England, he would not been privy to the same priviledges and most likely
+England, he would not been privy to the same privileges and most likely
 would have been forced to become a recipient of the UK government’s Plan
 2 student loan.
 
@@ -26,6 +26,30 @@ Upon completion of his studies he would have found himself in a similar
 situation to many graduates in England and Wales confronted with the
 deceptively simple question: should he pay off the loan as quickly as
 possible, or pay the minimum in accordance with his Plan 2 agreement?
+
+The answer to this question depends on the loan structure. Plan 2
+graduates repay 9% of earnings above a threshold (£29’385 for 2026/27,
+frozen for three years from April 2027), pay interest that runs from RPI
+up to RPI+3 percentage points depending on income (capped at 6% for
+2026/27), and have whatever remains cancelled 30 years after they are
+first due to repay.
+
+The final point is what makes the question challenging: If you earn
+little, you never payoff the debt in its entirety, and the outstanding
+debt is written-off by the end of the term, incentivising minimum loan
+payments; if on the other hand you earn more, you might end up payoff
+the loan in it’s entirety before the end of the 30 year deadline, making
+it worthwhile to payoff quickly to avoid high interest costs. But where
+is the threshold where this regime switch kicks in, and how might you
+end up paying if you have the capital to make advance payments?
+
+This article aims to answer these with a collection of illustrative
+plots. It aims to answer this question doing a stochastic-simulation of
+the factors influencing the loans structure (income trajectories over
+30y, RPI, living expenses, inflation, UK-tax bands, savings
+incl. capital gains).
+
+PLEASE NOTE: This article is still work in progress.
 
 <figure>
 <img
