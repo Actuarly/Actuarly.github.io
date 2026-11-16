@@ -582,6 +582,8 @@ carefully and, where appropriate, seek advice from a qualified,
 regulated professional. For loan terms, check the official guidance from
 the loan provider or the government.
 
+## Appendix
+
 <figure>
 <img
 src="../../../../../../../../../../../assets/images/schroedingers-debt/Taylor-the-teacher-v1-0/cost_by_payoff_year_vol.png"
