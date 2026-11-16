@@ -542,7 +542,7 @@ $$
 The pot also absorbs years in which cash flow falls short of the
 mandatory payment.
 
-### Costs are measured in real terms
+### Costs in real terms
 
 Inflation is resampled in pairs of (CPI, RPI) from observed annual UK
 rates since 1990, so the two series stay correlated. Total cost is the
@@ -555,7 +555,7 @@ $$
 The question is then how $$\mathbb{E}[\Sigma_T]$$ depends on $$\alpha$$
 and on the income path.
 
-### What the model leaves out
+### Not modelled
 
 Interest is RPI plus a constant $$s_t = 3$$ percentage points, the upper
 end of the income-dependent scale. The model also covers a single person
