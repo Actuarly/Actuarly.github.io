@@ -58,18 +58,18 @@ $$\text{PLEASE NOTE: This article is still work in progress.} $$
 
 When Erwin Schroedinger studied Physics at the early 20th century in
 Vienna, tuition fees, or what at the time was known as “Kollegiengeld”,
-for what would be the equivalent of today’s integrated master’s degree
+for the equivalent of today’s integrated master’s degree
 amounted to around 3’000 EUR - 5’000 EUR (inflation adjusted). Despite
-the Habsburg empire already nearing the later stages of its later
+the Habsburg empire already nearing the later stages of its
 decline, public finances still stretched far enough to make higher
-education accessible. Had he however been born between 1994 and 2003 in
-England, he would not been privy to the same privileges and most likely
-would have been forced to become a recipient of the UK government’s Plan
+education accessible. In contrast, had he been born between 1994 and 2003 in
+England, he would not have been privy to the same privilege:
+He would have been forced to become a recipient of the UK government’s Plan
 2 student loan.
 
-Upon completion of his studies he would have found himself in a similar
-situation to many graduates in England and Wales confronted with the
-deceptively simple question: *should he pay off the loan as quickly as
+Consequently, upon completion of his studies he would have found himself in a similar
+situation to many graduates in England and Wales today. They are confronted with the
+deceptively simple question: *should they pay off the loan as quickly as
 possible, or pay the minimum in accordance with his Plan 2 agreement?*
 
 <div class="float-table left"
