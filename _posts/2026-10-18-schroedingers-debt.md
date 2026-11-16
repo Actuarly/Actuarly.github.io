@@ -562,7 +562,7 @@ end of the income-dependent scale. The model also covers a single person
 with no career breaks, other debts or policy changes, and savings
 returns are fixed and untaxed.
 
-## Not financial advice
+## Disclaimer
 
 Actuarly is an independent think tank. We are not financial advisers,
 and nothing published on this site constitutes financial, investment,
