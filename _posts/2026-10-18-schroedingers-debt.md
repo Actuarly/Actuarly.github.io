@@ -470,7 +470,7 @@ around £136 per month over 30 years.
 </div>
 -->
 
-\## Model assumptions
+## Model assumptions
 
 The model follows one graduate through $$T = 30$$ annual steps and
 simulates 10’000 possible futures. All strategies run on the same random
