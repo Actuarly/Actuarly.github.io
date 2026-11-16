@@ -463,20 +463,14 @@ outstanding debt continually increases despite an average payment of
 around £136 per month over 30 years.
 </figcaption>
 </figure>
-
+<!--
 <div class="figure">
-
 <img src="../../../../../../../../../../../assets/images/schroedingers-debt/Blake-the-banker-v1-0/cost_by_payoff_year_vol.png" alt="**Figure 4**: Year of total repayment vs. total loan payments for the minimal + voluntary repayment plan, coloured by mean real salary in real terms. Voluntary payments significantly lower the loan time until repayment, reducing accumulated interest and loan cost. Alpha = 0.67" width="0.8" />
-<p class="caption">
-**Figure 4**: Year of total repayment vs. total loan payments for the
-minimal + voluntary repayment plan, coloured by mean real salary in real
-terms. Voluntary payments significantly lower the loan time until
-repayment, reducing accumulated interest and loan cost. Alpha = 0.67
-</p>
-
+<p class="caption">**Figure 4**: Year of total repayment vs. total loan payments for the minimal + voluntary repayment plan, coloured by mean real salary in real terms. Voluntary payments significantly lower the loan time until repayment, reducing accumulated interest and loan cost. Alpha = 0.67</p>
 </div>
+-->
 
-## Model assumptions
+\## Model assumptions
 
 The model follows one graduate through $$T = 30$$ annual steps and
 simulates 10’000 possible futures. All strategies run on the same random
