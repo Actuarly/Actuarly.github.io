@@ -56,7 +56,7 @@ figure figcaption { font-size: 0.8em; line-height: 1.35; color: #555; border-top
 
 $$\text{PLEASE NOTE: This article is still work in progress.} $$
 
-When Erwin Schroedinger studied Physics at the early 20th century in
+When Erwin Schroedinger studied Physics in the early 20th century in
 Vienna, tuition fees, or what at the time was known as “Kollegiengeld”,
 for the equivalent of today’s integrated master’s degree
 amounted to around 3’000 EUR - 5’000 EUR (inflation adjusted). Despite
