@@ -582,9 +582,7 @@ repayments.
 <img src="/assets/images/schroedingers-debt/Blake-the-banker-v1-0/results.png" alt="">
 <figcaption>
 <strong>Figure 4.X</strong>: Real debt trajectory of minimum repayment
-plan, together with a histogram of real total payments. Percy’s
-outstanding debt continually increases despite an average payment of
-around £136 per month over 30 years.
+plan, together with a histogram of real total payments.
 </figcaption>
 </figure>
 <!--
