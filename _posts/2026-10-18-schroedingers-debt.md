@@ -387,10 +387,11 @@ roughly £540 annually.
 <figure class="float-right" style="width:45%">
 <img src="/assets/images/schroedingers-debt/Taylor-the-teacher-v1-0/pay_vs_inc_linear.png" alt="">
 <figcaption>
-<strong>Figure 2.1</strong>: Average annual gross income vs. total loan
-payments for the minimal repayment (blue) and the min + voluntary
-repayment plan (orange) in real terms. Under the given scenario,
-voluntary payments do not lead to loan discounts.
+<strong>Figure 2.1</strong>: Results with 10’000 simulations, showing
+average annual gross income vs. total loan payments for the minimal
+repayment (blue) and the min + voluntary repayment plan (orange) in real
+terms. Under the given scenario, voluntary payments do not lead to loan
+discounts.
 </figcaption>
 </figure>
 
@@ -459,11 +460,11 @@ repayments, amounting to roughly £1’440 annually.
 <figure class="float-right" style="width:45%">
 <img src="/assets/images/schroedingers-debt/Percy-the-PM-v1-0/pay_vs_inc_linear.png" alt="">
 <figcaption>
-<strong>Figure 3.1</strong>: Average annual gross income vs. total loan
-payments for the minimal repayment (blue) and the min + voluntary
-repayment plan (orange) in real terms. Over the 30y period, Percy stands
-to save just over £22’000 in real terms when making minimum + voluntary
-repayments.
+<strong>Figure 3.1</strong>: Results with 10’000 simulations, showing
+average annual gross income vs. total loan payments for the minimal
+repayment (blue) and the min + voluntary repayment plan (orange) in real
+terms. Over the 30y period, Percy stands to save just over £22’000 in
+real terms when making minimum + voluntary repayments.
 </figcaption>
 </figure>
 
@@ -489,12 +490,12 @@ for savings, saving up only around £24’000 over 10 years.
 <figure class="float-left" style="width:70%">
 <img src="/assets/images/schroedingers-debt/Percy-the-PM-v1-0/cost_by_payoff_year_vol.png" alt="">
 <figcaption>
-<strong>Figure 3.2</strong>: Results from stochastic simulation with
-10’000 simulations, showing year of total repayment vs. Total loan
-payments for the minimal + voluntary repayment scheme, coloured by mean
-real salary in real terms. Voluntary payments significantly lower the
-loan time until repayment, reducing accumulated intrest and loan costs.
-Share of free cash used for voluntary repayments (Alpha) = 0.67
+<strong>Figure 3.2</strong>: Results with 10’000 simulations, showing
+year of total repayment vs. Total loan payments for the minimal +
+voluntary repayment scheme, coloured by mean real salary in real terms.
+Voluntary payments significantly lower the loan time until repayment,
+reducing accumulated intrest and loan costs. Share of free cash used for
+voluntary repayments (Alpha) = 0.67
 </figcaption>
 </figure>
 
@@ -570,16 +571,17 @@ trade-off with other goals, so there is no single best share.
 <figure class="float-right" style="width:45%">
 <img src="/assets/images/schroedingers-debt/Blake-the-banker-v1-0/pay_vs_inc_linear.png" alt="">
 <figcaption>
-<strong>Figure X</strong>: Average annual gross income vs. total loan
+<strong>Figure 4.1</strong>: Average annual gross income vs. total loan
 payments for the minimal repayment (blue) and the min + voluntary
-repayment plan (orange) in real terms. Under the given scenario,
-voluntary payments do not lead to loan discounts.
+repayment plan (orange) in real terms. Over the 30y period, Blake stands
+to save around £21’000 in real terms when making minimum + voluntary
+repayments.
 </figcaption>
 </figure>
 <figure class="float-left" style="width:45%">
 <img src="/assets/images/schroedingers-debt/Blake-the-banker-v1-0/results.png" alt="">
 <figcaption>
-<strong>Figure 3.4</strong>: Real debt trajectory of minimum repayment
+<strong>Figure 4.X</strong>: Real debt trajectory of minimum repayment
 plan, together with a histogram of real total payments. Percy’s
 outstanding debt continually increases despite an average payment of
 around £136 per month over 30 years.
