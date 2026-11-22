@@ -197,14 +197,22 @@ loan payments. If on the other hand you earn more, you might end up
 paying off the loan in it’s entirety before the end of the 30 year
 deadline. This would make it worthwhile to pay the loan off quickly in
 order to avoid high interest costs. But where is the threshold where
-this regime switch kicks in, and how might you end up paying if you have
-the capital to make advance payments?
+this regime switch kicks in, and how much might you end up paying if you
+have the capital to make additional voluntary payments?
 
 This article will aim to answer the motivating question above by looking
 at the problem through the lens of three fictional individuals
 representing different tax brackets and financial circumstances: Taylor
 the teacher, Percy the project manager (PM), and Blake the banker (see
-summary in table 2).
+summary in table 2). For each case we will consider two repayment
+strategies. Firstly, we consider a minimum repayment plan as set out by
+the terms of the Plan 2 student loan. Secondly, we consider the case of
+voluntary additional payments. These voluntary payments are defined by a
+factor alpha, the proportion of free cash available after deducting all
+expenses per year (gross income - tax - social contributions - living
+expenses - minimum loan payments). For example, with an alpha = 0.5, 50%
+of free cash per year is used for voluntary payments in addition to the
+minimum payments of the student loan.
 
 Given the above, we see that the problem’s complexity principally
 depends on the level and uncertainty of future income. To adequately
@@ -250,20 +258,6 @@ Banker
 </tr>
 <tr>
 <td style="text-align:left;">
-Initial debt (K₀)
-</td>
-<td style="text-align:right;">
-£50’000
-</td>
-<td style="text-align:right;">
-£50’000
-</td>
-<td style="text-align:right;">
-£50’000
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Starting gross salary (I₀)
 </td>
 <td style="text-align:right;">
@@ -278,13 +272,27 @@ Starting gross salary (I₀)
 </tr>
 <tr>
 <td style="text-align:left;">
+Initial debt (K₀)
+</td>
+<td style="text-align:right;">
+£50’000
+</td>
+<td style="text-align:right;">
+£50’000
+</td>
+<td style="text-align:right;">
+£50’000
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Salary growth
 </td>
 <td style="text-align:right;">
 Mean 4.5% p.a., vol. 0.5%
 </td>
 <td style="text-align:right;">
-Mean 4.5% p.a., vol. 0.5%
+Mean 4.5% p.a., vol. 0.8%
 </td>
 <td style="text-align:right;">
 Mean 5.0% p.a., vol. 2.0%
@@ -344,20 +352,6 @@ Return on savings
 </td>
 <td style="text-align:right;">
 4.0% nominal p.a.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Suggested Voluntary repayment share (α)
-</td>
-<td style="text-align:right;">
-0% of free income
-</td>
-<td style="text-align:right;">
-e.g. 40% of free income
-</td>
-<td style="text-align:right;">
-X% of free income
 </td>
 </tr>
 </tbody>
@@ -446,11 +440,11 @@ when making voluntary repayments.
 
 ## Percy (Project Manager, London)
 
-Next we consider the case of Taylor. They enter the workforce as a PM in
-the London earning £45’000 in their first year with £50’000 in student
-debt. Being employed by the private sector, their salary varies more
-widely, with the potential of increasing significantly. In their first
-year of income they pay around £9’100 in total tax and given the higher
+Next we consider the case of Percy. They enter the workforce as a PM in
+London earning £45’000 in their first year with £50’000 in student debt.
+Being employed by the private sector, their salary varies more widely,
+with the potential of increasing more significantly. In their first year
+of income they pay around £9’100 in total tax and given the higher
 expenses in London, start with monthly living expenses of £2’300. They
 follow a conservative spending approach: for every 2% increase in
 salary, they increase living expenses by only 1% (see table 2 for a
