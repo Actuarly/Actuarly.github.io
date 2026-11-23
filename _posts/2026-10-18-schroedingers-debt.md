@@ -58,9 +58,7 @@ p.byline { font-size: 0.85em; color: #777; margin: 1em 0 0; letter-spacing: 0.02
 .page__content p.lede { font-weight: 700 !important; }
 </style>
 <p class="lede">
-Recent graduates face a mountain of student debt and an uncertain
-financial future. A Plan 2 loan may be repaid in full or partly written
-off after 30 years, so do graduates gain by paying it off early?
+Student debt weighs heavily on recent graduates, particularly those with a Plan 2 loan. Since any remaining balance is written off after 30 years, a question arises: do graduates actually gain by repaying early?
 </p>
 <p class="byline">
 By Christopher Buck
